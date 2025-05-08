@@ -1,0 +1,30 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "Use GitHub API to fetch user activity and display it in the terminal.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackas779/GitHub-User-Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackas779/GitHub-User-Activity/issues"
+  },
+  "homepage": "https://github.com/jackas779/GitHub-User-Activity#readme",
+  "devDependencies": {
+    "standard": "17.1.2"
+  },
+  "bin": {
+    "github-activity": "./main.js"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
