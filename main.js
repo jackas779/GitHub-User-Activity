@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { githubEventTypes } from './utils/eventsTypes.js'
 import { exit } from 'process'
 
