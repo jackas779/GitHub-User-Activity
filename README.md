@@ -6,6 +6,8 @@ GitHub Activity CLI es una herramienta sencilla de línea de comandos construida
 
 Este proyecto es ideal para practicar habilidades en la construcción de interfaces de línea de comandos (CLI), manejo de APIs, y procesamiento de datos JSON.
 
+Proyecto realizo con los requisitos propuestos de la pagina de roadmap para mas detalles de los requisitos ir a la siguiente url  [Roadmap](https://roadmap.sh/projects/github-user-activity)
+
 ## Características
 
 * **Obtención de Actividad:**
